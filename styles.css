@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(170, 144, 105);
+    text-align: center;
+    font-family: 'Playpen Sans', cursive;
+}
+
+img {
+    border: 4px solid black;
+    align-items: center;
+    width: 50%;
+    margin-top: 20px;
+}
+
+.content-1 {
+    display: inline-block;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: blanchedalmond;
+    padding: 0px 10px 0px 10px;
+    border-radius: 20px;
+    font-size: large;
+    box-shadow: 12px 12px 12px rgba(0, 0, 0, 0.37);
+}
